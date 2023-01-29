@@ -1,0 +1,7 @@
+{
+	"host": "0.0.0.0",
+	"port": 58232,
+	"passcode-entry": " DEFAULT AES KEY! CHANGE THIS!  ",
+	"passcode-exit": "THIS IS AN EXITPASSCODE!KEEPSAFE",
+	"challenge-length": 512
+}

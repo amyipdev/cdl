@@ -1,0 +1,11 @@
+{
+	"hosts": [
+		{
+			"name": "lo",
+			"ip": "127.0.0.1",
+			"port": 58232,
+			"passcode-entry": " DEFAULT AES KEY! CHANGE THIS!  ",
+			"passcode-exit": "THIS IS AN EXITPASSCODE!KEEPSAFE"
+		}
+	]
+}
